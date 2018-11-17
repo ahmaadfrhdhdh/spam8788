@@ -1,6 +1,6 @@
 ﻿const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix = "1";
+var prefix = "1say @!LD artist #4417 ";
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
